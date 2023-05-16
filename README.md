@@ -28,9 +28,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome Books<a name="about-project"></a>
+# 📖 TRY gitflow<a name="about-project"></a>
 
-**Awesome Books** In this project, I build a basic website that allows users to have a simple to-do list using list structure and webpack.
+**try gitflow** In this project I implement gitflow for the first time which is a new way of working with github.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -71,9 +71,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Live-Demo <a name="live-demo"></a>
-https://mpa-mxiang.github.io/to-do-list/dist/
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -100,7 +97,7 @@ Now you can go and play with it as you wish :smile:
 
 👤 **mpa-mxiang**
 
-- GitHub: [@mpa-mxiang](https://github.com/mpa-mxiang/)
+- GitHub: [@mpa-mxiang](https://github.com/benja27)
 - LinkedIn: [Jiachun (Lily) Xiang](https://www.linkedin.com/in/jiachunlilyxiang/)
 
 
